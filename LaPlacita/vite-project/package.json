@@ -5,7 +5,7 @@
   "homepage": "https://valenaleman.github.io/PreEntrega1-Aleman-Reactjs",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run dist",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
