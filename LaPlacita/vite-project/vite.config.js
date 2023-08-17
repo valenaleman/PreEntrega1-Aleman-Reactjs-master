@@ -11,4 +11,5 @@ export default defineConfig({
       },
     },
   },
+  base: '/PreEntrega1-Aleman-Reactjs-master/', // Ajusta esta ruta según tu estructura de GitHub Pages
 })
