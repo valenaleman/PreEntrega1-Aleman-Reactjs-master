@@ -9,7 +9,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        main: path.resolve(__dirname, 'index.html'), // Usa el path correcto si tu archivo está en otra ubicación
+        main: path.resolve(__dirname, 'public/index.html'), // Usa el path correcto si tu archivo está en otra ubicación
       },
     },
   },
